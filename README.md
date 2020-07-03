@@ -6,7 +6,7 @@ This repository comprises the collected dataset of handwritten transcriptions of
 This database may be used for non-commercial research purpose only. 
 If you publish material based on this database - please refer to the following paper:
 
-Christian Gold and Torsten Zesch. 2020. Exploring the Impact of Handwriting Recognition on the Automated Scoring of Handwritten Student Answers. ICFHR. to be published.
+> Christian Gold and Torsten Zesch. 2020. Exploring the Impact of Handwriting Recognition on the Automated Scoring of Handwritten Student Answers. International Conference on Frontiers in Handwriting Recognition (ICFHR).
 
 ## Handwritten Dataset
 The latest version of the dataset can be downloaded [here](https://www.ltl.uni-due.de/content/6-software/handwritten-asap-sas-v1.zip).

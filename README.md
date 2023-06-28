@@ -21,23 +21,4 @@ An information file per prompt has been added, containing all filenames, ASAP ID
 
 With version 1.0 from 1st July 2020 a total of 350 transcriptions out of two prompts are collected.
 Prompt 3 - 185 texts
-Prompt 4 - 165 texts (full description file is missing - comming soon)
-
-## Code - Handwriting Recognition 
-(comming soon)
-### Data Reader
-(comming soon)
-### Preprocessing
-(comming soon)
-### Trained Model
-(comming soon)
-### Post processing
-(comming soon)
-## Code - Automatic Scoring
-(comming soon)
-### Trained Model
-(comming soon)
-### Scoring
-(comming soon)
-## Code - Evaluation
-(comming soon)
+Prompt 4 - 165 texts (full description file is missing)
